@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Fnu-Tanu-shree!
+# Hi, Iam Tanu shree!
 
-🌱 **Aspiring Data Analyst** focused on building a career in data analysis, with a special interest in cybersecurity trends.
+ **Aspiring Data Analyst** focused on building a career in data analysis, with a special interest in cybersecurity trends.
 
 ---
 
@@ -35,16 +35,9 @@ Explore my interactive Tableau dashboard visualizing cybersecurity threats, atta
 
 ## 📒 Notebooks
 
-I regularly share Jupyter notebooks that demonstrate my data wrangling, analysis, and visualization skills.  
-Check out my repositories or reach out if you’d like to see specific notebooks related to cybersecurity data analysis!
+Check out my Jupyter notebooks scripts in the attached folder 'Scripts', that demonstrate my data wrangling, analysis, and visualization skills.  
 
 ---
-
-<!--
-## 🌐 Connect with Me
-
-[//]: # (Add your LinkedIn, Kaggle, or email here later)
--->
 
 ## ⚡ Fun Fact
 
