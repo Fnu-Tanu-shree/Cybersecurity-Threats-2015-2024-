@@ -1,4 +1,4 @@
-# Hi, Iam Tanu shree!
+# Hi, I am Tanu shree!
 
  **Aspiring Data Analyst** focused on building a career in data analysis, with a special interest in cybersecurity trends.
 
